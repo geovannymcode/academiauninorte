@@ -1,5 +1,5 @@
-# academiauninorte
+# Academia Uninorte
 
 Diseño de pagina educativa 
 
-Geovanny Mendoza Gonzalez
+Elaborado por Geovanny Mendoza Gonzalez
